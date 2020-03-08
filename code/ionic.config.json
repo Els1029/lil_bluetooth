@@ -4,5 +4,6 @@
     "cordova": {},
     "gulp": {}
   },
-  "type": "ionic1"
+  "type": "ionic1",
+  "app_id": ""
 }
